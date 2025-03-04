@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.4023d821.css",
+    "main.js": "/react-gh-pages/static/js/main.d1e72d0c.js",
+    "static/js/453.114d4c6f.chunk.js": "/react-gh-pages/static/js/453.114d4c6f.chunk.js",
+    "static/media/inatLogo.png": "/react-gh-pages/static/media/inatLogo.9eed044c58e584df226e.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4023d821.css.map": "/react-gh-pages/static/css/main.4023d821.css.map",
+    "main.d1e72d0c.js.map": "/react-gh-pages/static/js/main.d1e72d0c.js.map",
+    "453.114d4c6f.chunk.js.map": "/react-gh-pages/static/js/453.114d4c6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4023d821.css",
+    "static/js/main.d1e72d0c.js"
+  ]
+}
