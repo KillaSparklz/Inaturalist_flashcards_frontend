@@ -25,7 +25,7 @@ function App() {
     if (!position) return; // Don't fetch if position is not set yet
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://127.0.0.1:5000/api/observations', {
+        const response = await axios.get('https://5agg1j6nqa.execute-api.us-west-1.amazonaws.com/dev/api/observations', {
           params: {
             nelat: position['lat'] + 0.1,
             nelng: position['lng'] + 0.1,
