@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Inaturalist_flashcards_frontend/static/css/main.4023d821.css",
-    "main.js": "/Inaturalist_flashcards_frontend/static/js/main.44aacf0c.js",
+    "main.js": "/Inaturalist_flashcards_frontend/static/js/main.0eee85ba.js",
     "static/js/453.114d4c6f.chunk.js": "/Inaturalist_flashcards_frontend/static/js/453.114d4c6f.chunk.js",
     "static/media/inatLogo.png": "/Inaturalist_flashcards_frontend/static/media/inatLogo.9eed044c58e584df226e.png",
     "index.html": "/Inaturalist_flashcards_frontend/index.html",
     "main.4023d821.css.map": "/Inaturalist_flashcards_frontend/static/css/main.4023d821.css.map",
-    "main.44aacf0c.js.map": "/Inaturalist_flashcards_frontend/static/js/main.44aacf0c.js.map",
+    "main.0eee85ba.js.map": "/Inaturalist_flashcards_frontend/static/js/main.0eee85ba.js.map",
     "453.114d4c6f.chunk.js.map": "/Inaturalist_flashcards_frontend/static/js/453.114d4c6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4023d821.css",
-    "static/js/main.44aacf0c.js"
+    "static/js/main.0eee85ba.js"
   ]
 }
